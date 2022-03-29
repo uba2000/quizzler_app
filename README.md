@@ -19,4 +19,4 @@ samples, guidance on mobile development, and a full API reference.
 
 Quizzler is a quiz app that tests your general knowledge.
 
-![Finished App](https://github.com/uba2000/quizzler_app/blob/quizzler-demo.gif)
+![Finished App](https://github.com/uba2000/quizzler_app/blob/main/blob/quizzler-demo.gif)
